@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # p21v-django unit 09
 
 ## Install PostgreSQL
@@ -729,3 +730,7 @@ $ python manage.py dumpdata --indent 2 --natural-foreign -e contenttypes -e auth
 ```
 $ python manage.py test functional_tests.test_allauth
 ```
+=======
+# quantlife_blog
+python/django implementation of my site. Doing it for practice.
+>>>>>>> c453b732a80daac789a56e61014b51e51ef9b284
